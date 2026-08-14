@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export>
+    <version>3.0</version>
+    <date>2026-08-14T19:02:19Z</date>
+    <groups>
+        <group>
+            <name>Linux servers</name>
+        </group>
+        <group>
+            <name>Windows servers</name>
+        </group>
+        <group>
+            <name>Network devices</name>
+        </group>
+        <group>
+            <name>Virtual machines</name>
+        </group>
+        <group>
+            <name>Physical servers</name>
+        </group>
+        <group>
+            <name>Containers / K8s nodes</name>
+        </group>
+        <group>
+            <name>Hypervisors</name>
+        </group>
+        <group>
+            <name>Storage systems</name>
+        </group>
+        <group>
+            <name>MySQL</name>
+        </group>
+        <group>
+            <name>MongoDB</name>
+        </group>
+        <group>
+            <name>Redis</name>
+        </group>
+        <group>
+            <name>PostgreSQL</name>
+        </group>
+        <group>
+            <name>Nginx</name>
+        </group>
+        <group>
+            <name>Apache</name>
+        </group>
+        <group>
+            <name>Tomcat</name>
+        </group>
+        <group>
+            <name>Kafka</name>
+        </group>
+        <group>
+            <name>RabbitMQ</name>
+        </group>
+        <group>
+            <name>Elasticsearch</name>
+        </group>
+        <group>
+            <name>Memcached</name>
+        </group>
+        <group>
+            <name>Zookeeper</name>
+        </group>
+        <group>
+            <name>Production</name>
+        </group>
+        <group>
+            <name>Staging</name>
+        </group>
+        <group>
+            <name>Testing</name>
+        </group>
+        <group>
+            <name>Development</name>
+        </group>
+        <group>
+            <name>DR / Backup site</name>
+        </group>
+        <group>
+            <name>Web frontend</name>
+        </group>
+        <group>
+            <name>API / Gateway</name>
+        </group>
+        <group>
+            <name>App backend</name>
+        </group>
+        <group>
+            <name>Cache layer</name>
+        </group>
+        <group>
+            <name>Message queue</name>
+        </group>
+        <group>
+            <name>Database tier</name>
+        </group>
+        <group>
+            <name>Search / Analytics</name>
+        </group>
+        <group>
+            <name>CI / CD runners</name>
+        </group>
+        <group>
+            <name>Jump / Bastion hosts</name>
+        </group>
+        <group>
+            <name>Monitoring / Zabbix</name>
+        </group>
+        <group>
+            <name>Logging / ELK</name>
+        </group>
+        <group>
+            <name>IDC-Beijing</name>
+        </group>
+        <group>
+            <name>IDC-Shanghai</name>
+        </group>
+        <group>
+            <name>IDC-Guangzhou</name>
+        </group>
+        <group>
+            <name>Cloud-Aliyun</name>
+        </group>
+        <group>
+            <name>Cloud-AWS</name>
+        </group>
+        <group>
+            <name>Cloud-Tencent</name>
+        </group>
+        <group>
+            <name>Office LAN</name>
+        </group>
+        <group>
+            <name>DMZ</name>
+        </group>
+        <group>
+            <name>Security appliances</name>
+        </group>
+        <group>
+            <name>Load balancers</name>
+        </group>
+        <group>
+            <name>CDN edges</name>
+        </group>
+        <group>
+            <name>IoT / Edge devices</name>
+        </group>
+        <group>
+            <name>Templates</name>
+        </group>
+        <group>
+            <name>Discovered hosts</name>
+        </group>
+    </groups>
+</zabbix_export>
