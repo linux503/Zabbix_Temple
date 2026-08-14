@@ -17,6 +17,7 @@ mkdir -p "$SCRIPTS_DST" "$CONF_DST"
 cp -a "$ROOT/scripts/." "$SCRIPTS_DST/"
 cp -a "$ROOT/conf/." "$CONF_DST/"
 chmod +x "$SCRIPTS_DST"/redis/*.sh "$SCRIPTS_DST"/mysql/*.sh "$SCRIPTS_DST"/nginx/*.sh
+chmod +x "$SCRIPTS_DST"/extras/*.sh 2>/dev/null || true
 chmod +x "$SCRIPTS_DST"/mongodb/*.py 2>/dev/null || true
 
 echo "已安装:"
